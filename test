@@ -1,0 +1,4 @@
+force_install_dir "/home/lobo/docker/rust/"
+login anonymous
+app_update 258550
+quit
